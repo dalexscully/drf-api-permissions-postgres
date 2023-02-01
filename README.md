@@ -22,7 +22,7 @@ Django REST Framework
 Docker
 
 - NOTE Refer to demo for built out Dockerfile and docker-compose.yml examples.
-- create Dockerfile based off python:3.8-slim
+- create Dockerfile based off python:3.11-slim
 - create docker-compose.yml to run Django app as a web service.
 - enter docker-compose up --build to start your site.
 - add postgres 11 as a service
